@@ -1,4 +1,5 @@
 <h1 align="center">Oi, sou Fernando</h1>
+![icegif-96](https://github.com/fernandoaxis/fernandoaxis/assets/159575977/03899e3c-5842-4334-aa2c-98e9002945a6)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/nanoxyzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nanoxyzz" height="30" width="40" /></a>
