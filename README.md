@@ -9,6 +9,7 @@
 Olá! Meu nome é Fernando e sou um estudante de Eletrotécnica com uma paixão por programação Java. Este é o meu espaço no GitHub, onde compartilho meus projetos, aprendizados e experimentos na área da programação.
 
 📚 Atualmente, estou cursando Eletrotécnica, onde mergulho nos fundamentos dos circuitos elétricos, sistemas de energia e automação.
+
 💻 Fora da sala de aula, dedico meu tempo livre ao estudo e prática da programação Java, explorando suas infinitas possibilidades e aprimorando minhas habilidades como desenvolvedor.
 ## 🔎 Oque você encontrará aqui
 
