@@ -11,14 +11,12 @@ Olá! Meu nome é Fernando e sou um estudante de Eletrotécnica com uma paixão 
 📚 Atualmente, estou cursando Eletrotécnica, onde mergulho nos fundamentos dos circuitos elétricos, sistemas de energia e automação.
 
 💻 Fora da sala de aula, dedico meu tempo livre ao estudo e prática da programação Java, explorando suas infinitas possibilidades e aprimorando minhas habilidades como desenvolvedor.
-## 🔎 Oque você encontrará aqui
-
-Neste perfil, você encontrará uma variedade de projetos relacionados à programação Java, desde pequenos scripts e exercícios até projetos mais complexos. Meu objetivo é compartilhar meu progresso e crescimento como programador enquanto me divirto explorando esta linguagem fascinante.
 
 ![e528f6babfa2ebd0159c32363e3da2495957f118_00](https://github.com/fernandoaxis/fernandoaxis/assets/159575977/979165c8-0b32-4feb-98d6-902fdbd97106)
 
+## 🔎 Oque você encontrará aqui
 
-
+Neste perfil, você encontrará uma variedade de projetos relacionados à programação Java, desde pequenos scripts e exercícios até projetos mais complexos. Meu objetivo é compartilhar meu progresso e crescimento como programador enquanto me divirto explorando esta linguagem fascinante.
 
 ## 🔗 Contato
 
